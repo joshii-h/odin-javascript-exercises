@@ -1,5 +1,5 @@
-const removeFromArray = function() {
-
+const removeFromArray = function(inpArr, toRem) {
+    
 };
 
 // Do not edit below this line
